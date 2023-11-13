@@ -19,14 +19,14 @@ void loop () {
 
   if (Serial.available () > 0 ) {                                                                                                         //
 
-    int The Number = Serial.parseInt ();                                                                                                //
-    int The Double OF The Number = The Number * 2;                                                                                     //
+    int TheNumber = Serial.parseInt ();                                                                                                //
+    int TheDoubleOFTheNumber = TheNumber * 2;                                                                                         //
 
 
     Serial.print (" * * * * The Double OF The Number : * * * * * ");                                                               // Show The Desired Message .
     Serial.print (The Number);                                                                                                    // Show The Desired Message .
     Serial.print (" * * * * Is : * * * * ");                                                                                     // Show The Desired Message .
-    Serial.print (The Double OF The Number);                                                                                    // Show The Desired Message .
+    Serial.print (TheDoubleOFTheNumber);                                                                                        // Show The Desired Message .
 
 
     }
