@@ -2,7 +2,7 @@
 
 // In this program, We want to Receive a Number from The Serial and then print Double that on The Serial Monitor .
 
-// The Main Code OF The Project OF Doubling The Numbers . .INO .
+// The Main Code OF The Project OF Doubling The Numbers . . INO . .
 
 
 
